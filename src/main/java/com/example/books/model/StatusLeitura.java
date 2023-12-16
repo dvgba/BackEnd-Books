@@ -5,5 +5,5 @@ public enum StatusLeitura {
     LIDO,
     QUERO_LER,
     POSSUO,
-    NAO_TENHO,
+    DESEJADO,
 }
